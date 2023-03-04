@@ -1,4 +1,4 @@
-Something else
+.Something else
 We want to perform a merge
 Git is great!!!!
 We are learning something new and awesome
